@@ -4,6 +4,7 @@
   "description": "A proof of concept (poc) to understand how to maximize the use of resources in nodejs",
   "main": "app.js",
   "scripts": {
+    "start": "node app.js",
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "keywords": [

@@ -5,3 +5,5 @@ This is a poc (proof of concept) due to make use of nodejs advantages of async b
 You need to declare a ```.env``` variable with the following properties:
 > PORT
 > LOGGER_VALUE
+
+We are getting guidelines from [this](https://github.com/fjogeleit/fastify-base-project) repo
