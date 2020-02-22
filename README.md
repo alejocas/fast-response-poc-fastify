@@ -7,3 +7,4 @@ You need to declare a ```.env``` variable with the following properties:
 > LOGGER_VALUE
 
 We are getting guidelines from [this](https://github.com/fjogeleit/fastify-base-project) repo
+and seeking for information at [ecosystem](https://www.fastify.io/ecosystem/) link from fastify
