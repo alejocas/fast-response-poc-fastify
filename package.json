@@ -1,0 +1,22 @@
+{
+  "name": "fast-dispatcher-poc",
+  "version": "1.0.0",
+  "description": "A proof of concept (poc) to understand how to maximize the use of resources in nodejs",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "fastify",
+    "poc",
+    "nodejs",
+    "scaling",
+    "reactive"
+  ],
+  "author": "Alejo Castaño Rojas",
+  "license": "GPL-3.0",
+  "dependencies": {
+    "dotenv": "^8.2.0",
+    "fastify": "^2.12.0"
+  }
+}
